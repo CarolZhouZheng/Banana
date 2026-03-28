@@ -1,5 +1,5 @@
 package com.una.platano;
 
 public class BnanoClass {
-    //bicha rtklijgriolgjioljeripgñfghfgiohfiovsdioh
+    //prueba jusr pruiwiewhjwiouhsiuohsd
 }
